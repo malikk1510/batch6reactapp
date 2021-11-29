@@ -1,0 +1,14 @@
+header- footer- login page-signup page complete with form , admin sdie product table, add,edit form, delete modal,
+user side home page without login, with login , get product cards, wishlist page, order page, 
+
+---tasks----
+add to wishlist,my wishlist,
+buy now,myorders
+populate
+add buy now button in wishlist - YOU guys
+apply loader
+apply toast
+make header right acc to auth state
+cloudinary image upload
+doubts regarding this project
+doubts js 
